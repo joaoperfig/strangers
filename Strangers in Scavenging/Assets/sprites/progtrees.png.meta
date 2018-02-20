@@ -1,0 +1,877 @@
+fileFormatVersion: 2
+guid: c9729ea307a0b69499c666579331e9c4
+timeCreated: 1519085816
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: progtrees_0
+    21300002: progtrees_1
+    21300004: progtrees_2
+    21300006: progtrees_3
+    21300008: progtrees_4
+    21300010: progtrees_5
+    21300012: progtrees_6
+    21300014: progtrees_7
+    21300016: progtrees_8
+    21300018: progtrees_9
+    21300020: progtrees_10
+    21300022: progtrees_11
+    21300024: progtrees_12
+    21300026: progtrees_13
+    21300028: progtrees_14
+    21300030: progtrees_15
+    21300032: progtrees_16
+    21300034: progtrees_17
+    21300036: progtrees_18
+    21300038: progtrees_19
+    21300040: progtrees_20
+    21300042: progtrees_21
+    21300044: progtrees_22
+    21300046: progtrees_23
+    21300048: progtrees_24
+    21300050: progtrees_25
+    21300052: progtrees_26
+    21300054: progtrees_27
+    21300056: progtrees_28
+    21300058: progtrees_29
+    21300060: progtrees_30
+    21300062: progtrees_31
+    21300064: progtrees_32
+    21300066: progtrees_33
+    21300068: progtrees_34
+    21300070: progtrees_35
+    21300072: progtrees_36
+    21300074: progtrees_37
+    21300076: progtrees_38
+    21300078: progtrees_39
+    21300080: progtrees_40
+    21300082: progtrees_41
+    21300084: progtrees_42
+    21300086: progtrees_43
+    21300088: progtrees_44
+    21300090: progtrees_45
+    21300092: progtrees_46
+    21300094: progtrees_47
+    21300096: progtrees_48
+    21300098: progtrees_49
+    21300100: progtrees_50
+    21300102: progtrees_51
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: progtrees_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 555
+        width: 108
+        height: 209
+      alignment: 9
+      pivot: {x: 0.65220195, y: 0.23985064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 563
+        width: 93
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5271925, y: 0.14842232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 545
+        width: 90
+        height: 224
+      alignment: 9
+      pivot: {x: 0.42975295, y: 0.20646776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 551
+        width: 119
+        height: 201
+      alignment: 9
+      pivot: {x: 0.44687197, y: 0.24207819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 360
+        width: 60
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5674726, y: 0.2128825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 367
+        width: 52
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5519019, y: 0.15031451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 370
+        width: 70
+        height: 161
+      alignment: 9
+      pivot: {x: 0.3072211, y: 0.15635066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 370
+        width: 117
+        height: 174
+      alignment: 9
+      pivot: {x: 0.38466206, y: 0.14403507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_8
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 367
+        width: 74
+        height: 180
+      alignment: 9
+      pivot: {x: 0.49743116, y: 0.20445015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 373
+        width: 90
+        height: 174
+      alignment: 9
+      pivot: {x: 0.520146, y: 0.17621621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 181
+        width: 51
+        height: 172
+      alignment: 9
+      pivot: {x: 0.6744291, y: 0.20705459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 191
+        width: 66
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5410267, y: 0.1526993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 198
+        width: 70
+        height: 148
+      alignment: 9
+      pivot: {x: 0.35218093, y: 0.19419077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 210
+        width: 58
+        height: 138
+      alignment: 9
+      pivot: {x: 0.67468786, y: 0.15644649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 200
+        width: 46
+        height: 155
+      alignment: 9
+      pivot: {x: 0.3373247, y: 0.26485804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_15
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 210
+        width: 91
+        height: 153
+      alignment: 9
+      pivot: {x: 0.57790804, y: 0.18400922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 208
+        width: 73
+        height: 157
+      alignment: 9
+      pivot: {x: 0.44436103, y: 0.2230244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_17
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 196
+        width: 79
+        height: 180
+      alignment: 9
+      pivot: {x: 0.64895284, y: 0.18697222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_18
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 206
+        width: 74
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17904091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_19
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 561
+        width: 71
+        height: 191
+      alignment: 9
+      pivot: {x: 0.59505755, y: 0.12308842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 563
+        width: 65
+        height: 193
+      alignment: 9
+      pivot: {x: 0.41347376, y: 0.11533779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_21
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 562
+        width: 63
+        height: 202
+      alignment: 9
+      pivot: {x: 0.39287263, y: 0.1213391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_22
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 568
+        width: 40
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5843643, y: 0.098269284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_23
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 401
+        width: 70
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5241019, y: 0.15491079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_24
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 405
+        width: 41
+        height: 145
+      alignment: 9
+      pivot: {x: 0.4382756, y: 0.12185627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_25
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 400
+        width: 49
+        height: 157
+      alignment: 9
+      pivot: {x: 0.48278558, y: 0.17225073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_26
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 395
+        width: 51
+        height: 150
+      alignment: 9
+      pivot: {x: 0.46692014, y: 0.16820313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_27
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 241
+        width: 95
+        height: 151
+      alignment: 9
+      pivot: {x: 0.7700311, y: 0.18339145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_28
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 237
+        width: 82
+        height: 145
+      alignment: 9
+      pivot: {x: 0.2724788, y: 0.21854058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_29
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 247
+        width: 87
+        height: 138
+      alignment: 9
+      pivot: {x: 0.47319365, y: 0.20426366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_30
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 261
+        width: 90
+        height: 131
+      alignment: 9
+      pivot: {x: 0.25383437, y: 0.0816478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_31
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 254
+        width: 35
+        height: 134
+      alignment: 9
+      pivot: {x: 0.59112376, y: 0.11918412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_32
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 259
+        width: 46
+        height: 148
+      alignment: 9
+      pivot: {x: 0.3773273, y: 0.05979734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_33
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 569
+        width: 115
+        height: 173
+      alignment: 9
+      pivot: {x: 0.556164, y: 0.12665394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_34
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 576
+        width: 130
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5248413, y: 0.13916834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_35
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 572
+        width: 75
+        height: 177
+      alignment: 9
+      pivot: {x: 0.44916016, y: 0.18978761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_36
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 549
+        width: 97
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22586091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_37
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 408
+        width: 68
+        height: 151
+      alignment: 9
+      pivot: {x: 0.51471305, y: 0.16438425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_38
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 403
+        width: 81
+        height: 158
+      alignment: 9
+      pivot: {x: 0.41353804, y: 0.17705333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_39
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 399
+        width: 68
+        height: 155
+      alignment: 9
+      pivot: {x: 0.544141, y: 0.20953211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_40
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 395
+        width: 84
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5833784, y: 0.17279206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_41
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 235
+        width: 72
+        height: 158
+      alignment: 9
+      pivot: {x: 0.51401097, y: 0.15526456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_42
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 234
+        width: 60
+        height: 147
+      alignment: 9
+      pivot: {x: 0.6849243, y: 0.2118086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_43
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 240
+        width: 87
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5171656, y: 0.14631312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_44
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 251
+        width: 61
+        height: 147
+      alignment: 9
+      pivot: {x: 0.36367947, y: 0.15430808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_45
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 71
+        width: 104
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5507384, y: 0.581881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_46
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 64
+        width: 118
+        height: 165
+      alignment: 9
+      pivot: {x: 0.48882073, y: 0.6039363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_47
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 63
+        width: 104
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5887921, y: 0.6939988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_48
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 61
+        width: 96
+        height: 168
+      alignment: 9
+      pivot: {x: 0.48625818, y: 0.74342245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_49
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 58
+        width: 91
+        height: 171
+      alignment: 9
+      pivot: {x: 0.42751706, y: 0.73143727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_50
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 86
+        width: 96
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5137418, y: 0.7103062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: progtrees_51
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 39
+        width: 104
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7480324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
